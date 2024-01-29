@@ -50,5 +50,5 @@ urlpatterns = [
         name="driver-detail"
     ),
 ]
-
+#
 app_name = "taxi"
